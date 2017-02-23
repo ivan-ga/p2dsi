@@ -39,5 +39,9 @@
     "gulp-gh-pages": "^0.5.4",
     "gulp-install": "^0.6.0",
     "gulp-shell": "^0.6.1"
+  },
+  "dependencies": {
+    "gulp-install": "^0.6.0",
+    "gulp-shell": "^0.6.1"
   }
 }
